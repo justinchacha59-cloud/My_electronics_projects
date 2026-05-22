@@ -5,7 +5,7 @@ I am Justin Chachap a self-taught, multi-disciplinary technician and developer s
 As the pioneer of the "Rootless Lab" philosophy, I prove daily that elite-level engineering and cybersecurity do not require corporate infrastructure. They require grit, deep structural understanding, and the willingness to tinker.
 
 ### ⚡ Featured Project: JCP-Chat
-I am the creator and architect of JCP-Chat (https://onrender.com), a live, next-generation AI assistant powered by the Llama 3.3 70B model. 
+I am the creator and architect of JCP-Chat (https://jcp-chat.onrender.com), a live, next-generation AI assistant powered by the Llama 3.3 70B model. 
 • Achieved a world-class response speed of just 0.6 seconds.
 • Integrated Web3 mechanics by embedding a MiniPay digital wallet connection directly into the UI, enabling a smooth user-referral loop for first-time visitors.
 • Fully optimized for lightweight, data-saving mobile environments like Opera Mini.
